@@ -1,0 +1,5 @@
+z:\users\devel\documents\visual studio 2017\Projects\ActionBuffer\ActionBuffer\bin\Debug\ActionBuffer.dll
+z:\users\devel\documents\visual studio 2017\Projects\ActionBuffer\ActionBuffer\bin\Debug\ActionBuffer.pdb
+z:\users\devel\documents\visual studio 2017\Projects\ActionBuffer\ActionBuffer\obj\Debug\ActionBuffer.csprojResolveAssemblyReference.cache
+z:\users\devel\documents\visual studio 2017\Projects\ActionBuffer\ActionBuffer\obj\Debug\ActionBuffer.dll
+z:\users\devel\documents\visual studio 2017\Projects\ActionBuffer\ActionBuffer\obj\Debug\ActionBuffer.pdb

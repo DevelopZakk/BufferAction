@@ -1,0 +1,14 @@
+z:\users\devel\documents\visual studio 2017\Projects\ActionBuffer\ActionBufferTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+z:\users\devel\documents\visual studio 2017\Projects\ActionBuffer\ActionBufferTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+z:\users\devel\documents\visual studio 2017\Projects\ActionBuffer\ActionBufferTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+z:\users\devel\documents\visual studio 2017\Projects\ActionBuffer\ActionBufferTests\bin\Debug\ActionBufferTests.dll
+z:\users\devel\documents\visual studio 2017\Projects\ActionBuffer\ActionBufferTests\bin\Debug\ActionBufferTests.pdb
+z:\users\devel\documents\visual studio 2017\Projects\ActionBuffer\ActionBufferTests\bin\Debug\ActionBuffer.dll
+z:\users\devel\documents\visual studio 2017\Projects\ActionBuffer\ActionBufferTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+z:\users\devel\documents\visual studio 2017\Projects\ActionBuffer\ActionBufferTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+z:\users\devel\documents\visual studio 2017\Projects\ActionBuffer\ActionBufferTests\bin\Debug\ActionBuffer.pdb
+z:\users\devel\documents\visual studio 2017\Projects\ActionBuffer\ActionBufferTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+z:\users\devel\documents\visual studio 2017\Projects\ActionBuffer\ActionBufferTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+z:\users\devel\documents\visual studio 2017\Projects\ActionBuffer\ActionBufferTests\obj\Debug\ActionBufferTests.csprojResolveAssemblyReference.cache
+z:\users\devel\documents\visual studio 2017\Projects\ActionBuffer\ActionBufferTests\obj\Debug\ActionBufferTests.dll
+z:\users\devel\documents\visual studio 2017\Projects\ActionBuffer\ActionBufferTests\obj\Debug\ActionBufferTests.pdb
